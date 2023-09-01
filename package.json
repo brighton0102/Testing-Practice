@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brighton0102/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brighton0102/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/brighton0102/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
